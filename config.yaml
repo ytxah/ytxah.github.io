@@ -1,6 +1,6 @@
 baseURL: 'https://ytxah.github.io/'
 languageCode: 'en-us'
-title: 'sicherhub'
+title: 'ytxah'
 theme: 'PaperMod'
 enableInlineShortcodes: true
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
